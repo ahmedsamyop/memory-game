@@ -1,2 +1,2 @@
 # memory-game
- JavaScript Memory Game
+Memory Game created by HTML , CSS and Javascript
